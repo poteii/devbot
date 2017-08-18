@@ -1,1 +1,1 @@
-web: vendor/bin/devbot public/
+web: vendor/bin/devbot
